@@ -1,0 +1,31 @@
+[33mcommit 6f3a3bfd2974d1b69b065e5e5a8f4eb81d4010f8[m
+Author: rainier letidjawa <rainier letidjawa>
+Date:   Mon Apr 4 18:57:44 2016 +0700
+
+    commit testting 6:57
+
+[33mcommit 39d1ab9538a49193318ca858be75c116acbf4e6a[m
+Merge: 95d6f48 d8986b3
+Author: rainier letidjawa <rainier letidjawa>
+Date:   Mon Apr 4 18:32:33 2016 +0700
+
+    Merge branch 'master' of https://github.com/rainierio/justmine
+    Download and mearch readme from github server
+
+[33mcommit 95d6f486e8b56a0297ed8338021966d40a7da14e[m
+Author: rainier letidjawa <rainier letidjawa>
+Date:   Mon Apr 4 18:27:29 2016 +0700
+
+    Commit 1
+
+[33mcommit d8986b332e5f5de49ad1a0a17c2da66243991d13[m
+Author: rainierio <rainierio@users.noreply.github.com>
+Date:   Mon Apr 4 18:12:36 2016 +0700
+
+    Update README.md
+
+[33mcommit 54a5c925424b6fed1a8a497caccd587420074192[m
+Author: rainierio <rainierio@users.noreply.github.com>
+Date:   Mon Apr 4 18:08:22 2016 +0700
+
+    Initial commit
